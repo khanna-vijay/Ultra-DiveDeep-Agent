@@ -1,6 +1,8 @@
 WIP. 
 OpenSource Idea generation Solution. 
 
+Powered by ARIZ & TRIZ (X Axis), Edward Debono's DATT Tools and Human Intuition Techniques (Y Axiz), OpenVolve and AlphaEvolve Inspiration for Evolutionary Architectures for Self Improvement (Z Axis)
+
 Phases
 1. Optimization of LLM Prompting. Using RAG->Graph, Domain Knowledge in JSON, User Query Optimization
 2. Idea Generation
